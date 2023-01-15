@@ -1,7 +1,14 @@
 # Habit Tracker App
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
+#Steps To Register and login into Habit-tracker 
 
-![Screenshot (283)](https://user-images.githubusercontent.com/49118089/88487258-13f92200-cfa1-11ea-8ea0-4528517900e1.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/63497877/212548456-57a97ee4-7cf2-41d8-b3b5-ccbf831c89f5.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/63497877/212548597-6e7a5968-b6f4-4c46-8bf3-c6ac34da35a2.png)
+
+![Screenshot (37)](https://user-images.githubusercontent.com/63497877/212548609-ee843fbf-c238-40f2-8365-da4273d79728.png)
+
+![Screenshot (38)](https://user-images.githubusercontent.com/63497877/212548624-317598bf-5548-4700-8d07-d34649d11954.png)
 
 Hosted URL********************(https://habit-tracker-7p2u.onrender.com/)*********************
 
@@ -21,7 +28,7 @@ Hosted URL********************(https://habit-tracker-7p2u.onrender.com/)********
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
+`git clone 
 
 ##### Into the project directory
 
