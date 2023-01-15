@@ -28,7 +28,7 @@ Hosted URL********************(https://habit-tracker-7p2u.onrender.com/)********
 
 ##### Clone the latest Repository
 
-`git clone 
+`git clone https://github.com/KS441-ctrl/Habit-Tracker.git
 
 ##### Into the project directory
 
