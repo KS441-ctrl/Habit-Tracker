@@ -1,5 +1,8 @@
 # Habit Tracker App
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
+
+Hosted URL********************(https://habit-tracker-7p2u.onrender.com/)*********************
+
 #Steps To Register and login into Habit-tracker 
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/63497877/212548456-57a97ee4-7cf2-41d8-b3b5-ccbf831c89f5.png)
@@ -10,7 +13,7 @@
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/63497877/212548624-317598bf-5548-4700-8d07-d34649d11954.png)
 
-Hosted URL********************(https://habit-tracker-7p2u.onrender.com/)*********************
+
 
 ## Technologies Used
 1.  NodeJS
